@@ -20,14 +20,14 @@ Note that the tasks below have a corresponding assignment to submit in your Canv
 - [CSS Diner](./css_diner.md)
 - [Chocolate Pizza](./chocolate_pizza.md)
 - [Portfolio Prep](./portfolio_prep.md)
-- [Setup Your Accounts](/common_curriculum/prep_work/Setup_Your_Accounts.md)
-- [Setup Your Reading Notes Repo](/common_curriculum/prep_work/Setup_Readings.md)
-- [Status Report](/common_curriculum/career_coaching/301/status-report.md)
-- [Professional Etiquette](/common_curriculum/career_coaching/301/professional-etiquette.md)
-- [Behavioral Interview Questions](/common_curriculum/career_coaching/301/behavioral-questions.md)
-- [Professional Pitch](/common_curriculum/career_coaching/301/professional-pitch-draft.md)
-- [Update Your Resume](/common_curriculum/career_coaching/301/update-your-resume.md)
+- [Setup Your Accounts](https://codefellows.github.io/common_curriculum/prep_work/Setup_Your_Accounts)
+- [Setup Your Reading Notes Repo](https://codefellows.github.io/common_curriculum/prep_work/Setup_Readings)
+- [Status Report](https://codefellows.github.io/common_curriculum/career_coaching/301/status-report)
+- [Professional Etiquette](https://codefellows.github.io/common_curriculum/career_coaching/301/professional-etiquette)
+- [Behavioral Interview Questions](https://codefellows.github.io/common_curriculum/career_coaching/301/behavioral-questions)
+- [Professional Pitch](https://codefellows.github.io/common_curriculum/career_coaching/301/professional-pitch-draft)
+- [Update Your Resume](https://codefellows.github.io/common_curriculum/career_coaching/301/update-your-resume)
 
 ### Please Read
 
-- [Familiarize yourself with the Career Coaching program](/common_curriculum/career_coaching), and review the [Code 301 Career Coaching Syllabus](/common_curriculum/career_coaching/301/301-career-coaching-syllabus.md).
+- [Familiarize yourself with the Career Coaching program](https://codefellows.github.io/common_curriculum/career_coaching), and review the [Code 301 Career Coaching Syllabus](https://codefellows.github.io/common_curriculum/career_coaching/301/301-career-coaching-syllabus).
