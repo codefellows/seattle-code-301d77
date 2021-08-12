@@ -14,8 +14,8 @@ Note that the tasks below have a corresponding assignment to submit in your Canv
 
 - [Dive into React](./react.md)
 - [Setup Your Laptop for Code 301](https://codefellows.github.io/setup-guide/code-301)
-- [ES6 Arrow Functions in JavaScript](./arrow-functions.md)
-- [ES6 Classes in JavaScript](./classes.md)
+- [ES6 Arrow Functions in JavaScript](./arrow-functions)
+- [ES6 Classes in JavaScript](./classes)
 - [Read 01 - Introduction to React and Components](https://codefellows.github.io/code-301-guide/curriculum/class-01/DISCUSSION)
 - [CSS Diner](./css_diner.md)
 - [Chocolate Pizza](./chocolate_pizza.md)
