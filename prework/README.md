@@ -12,14 +12,14 @@ Note that the tasks below have a corresponding assignment to submit in your Canv
 
 ### Please Complete
 
-- [Dive into React](react)
+- [Dive into React](./react.md)
 - [Setup Your Laptop for Code 301](https://codefellows.github.io/setup-guide/code-301)
-- [ES6 Arrow Functions in JavaScript](arrow-functions)
-- [ES6 Classes in JavaScript](classes)
+- [ES6 Arrow Functions in JavaScript](./arrow-functions.md)
+- [ES6 Classes in JavaScript](./classes.md)
 - [Read 01 - Introduction to React and Components](https://codefellows.github.io/code-301-guide/curriculum/class-01/DISCUSSION)
-- [CSS Diner](css_diner.md)
-- [Chocolate Pizza](chocolate_pizza)
-- [Portfolio Prep](portfolio_prep)
+- [CSS Diner](./css_diner.md)
+- [Chocolate Pizza](./chocolate_pizza.md)
+- [Portfolio Prep](./portfolio_prep.md)
 - [Setup Your Accounts](/common_curriculum/prep_work/Setup_Your_Accounts)
 - [Setup Your Reading Notes Repo](/common_curriculum/prep_work/Setup_Readings)
 - [Status Report](/common_curriculum/career_coaching/301/status-report)
