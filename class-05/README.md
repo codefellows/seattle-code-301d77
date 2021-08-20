@@ -2,7 +2,7 @@
 
 ## Overview
 
-Today we will use the skills we learned over the week to build a new application: city explorer! Your lab will be to take React starter code and turn it into a beautiful portfolio.
+Today we will use the skills we learned over the week to build a new application: city explorer! Your lab will be to take React starter code and turn it into a stylish site.
 
 ## Daily Plan
 
@@ -15,7 +15,7 @@ Today we will use the skills we learned over the week to build a new application
 
 As a result of completing lecture 5 of Code 301, students will:
 
-- Describe and Define: 
+- Describe and Define:
   - Conditional Rendering
   - Ternary Statements
   - Browser Router
@@ -31,6 +31,7 @@ As a result of completing lecture 5 of Code 301, students will:
 1. What is Browser Router?
 
 1. A ternary statement:
+
   ```javaScript
   // regular if/else conditional
   if(conditionIsTrue){
@@ -44,6 +45,7 @@ As a result of completing lecture 5 of Code 301, students will:
   ```
 
 1. Conditionally render a component:
+
   ```javaScript
   class Parent extends React.Component {
     constructor(props){
@@ -66,6 +68,7 @@ As a result of completing lecture 5 of Code 301, students will:
   ```
 
 - A better way to write it would be:
+
   ```javaScript
   class Parent extends React.Component {
     constructor(props){
