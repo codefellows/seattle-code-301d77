@@ -12,4 +12,4 @@ Do you think you have what it takes to get something serviceable whipped up this
 
 Here's a general idea, but please add as much pizzazz as you see fit.
 
-![Cookie Stand Admin](./cookie-stand-admin-version-2.jpeg)
+![Cookie Stand Admin](./cookie-stand-admin.jpg)
