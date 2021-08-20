@@ -27,6 +27,7 @@ Here's a general idea, but please add as much pizzazz as you see fit.
 - [Ant Design](https://ant.design/)
 - [Semantic UI](https://react.semantic-ui.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
+- [React UI Component Libraries](https://www.codeinwp.com/blog/react-ui-component-libraries-frameworks/)
 
 ## Stretch
 
@@ -36,6 +37,10 @@ Add another page and add routing so user can navigate to it from home page.
 - Deploy the site
 
 ## Configuration
+
+- Copy the `cookie-stand-admin` folder from lab folder in course repository.
+  - Within the new, copied `cookie-stand-admin` folder run `git init` from terminal.
+  - In Github create a new **empty** repository named `cookie-stand-admin` then follow the steps to link with your existing local git repository.
 
 _Your repository must include the following config files:_
 
