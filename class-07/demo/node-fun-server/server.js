@@ -18,6 +18,13 @@ app.get('/shopping-list', (request, response) => {
   response.send(['salami', 'prosciutto', 'soap']);
 });
 
+// say hi to given person
+// E.g. call http://localhost:3001/say-hi?person=Hexx
+app.get('/say-hi', (request, response) => {
+  const personToGreet = request.query.person;
+  response.send(`Hi there ${personToGreet}`);
+});
+
 // if a get request to any other path there is a problem
 app.get('*', (request, response) => {
   response.status(404).send('not found');
