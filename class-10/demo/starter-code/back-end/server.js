@@ -13,7 +13,7 @@ app.get('/recipes', getRecipes);
 
 function getRecipes(request, response) {
   const ingredient = request.query.ingredient;
-  const url = `https://api.edamam.com/search?q=${ingredient}&app_id=${process.env.FOOD_APP_ID}&app_key=${process.env.FOOD_APP_KEY}`;
+  const url = `https://api.edamam.com/search/?q=${ingredient}&app_id=${process.env.FOOD_APP_ID}&app_key=${process.env.FOOD_APP_KEY}`;
 
   axios
     .get(url)
